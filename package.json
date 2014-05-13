@@ -1,0 +1,16 @@
+{
+  "name": "foaas-spec",
+  "version": "0.0.1",
+  "author": "Tom Cully",
+  "description": "A live test suite for the FOAAS API (http://foaas.com)",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "*",
+    "grunt": "*",
+    "jasmine-node": "*",
+    "grunt-jasmine-node": "*",
+    "underscore": "*"
+  },
+}
